@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "testgit", "testgit\testgit.dtproj", "{97C7D2F6-9FC1-4DC0-B71F-0011DFB9ECBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C7D2F6-9FC1-4DC0-B71F-0011DFB9ECBF}.Development|Default.ActiveCfg = Development
+		{97C7D2F6-9FC1-4DC0-B71F-0011DFB9ECBF}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2BDB87E-D781-485A-B14E-1A32FF7C227E}
+	EndGlobalSection
+EndGlobal

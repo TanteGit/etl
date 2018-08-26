@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="sol.relog_st_a.sa"
+  DTS:DTSID="{FB0A10B2-4F61-4187-885E-2EE6397ADD3C}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=sol;User ID=sa;Initial Catalog=relog_st_a;Provider=MSOLEDBSQL.1;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAf+gNbnqfr0SEhpeDQTHoTQAAAAACAAAAAAAQZgAAAAEAACAAAABTFdISOOw2e0RocpUcfu4RjK1+DdGSDKJzMK/BiQ/oyAAAAAAOgAAAAAIAACAAAAAxjMP3aiokKIvIsjCMrezh35ZFIO0haVXmKETDl4of94AAAABpk9072jWFyPX+ohToCTJwo2H1miGNJdJCKjYZ2VtcAOdvMWW7FObBGhtw1WDEcDs3WKGWofu+7xCRPat7Z3EXkBtAAlFSbY29VwbyYaYFyCHjPau9tplyWgKogJVfqQCqMPK2yJfChXaQ3DpuX5UxwNuhIPLcepwNwAc68IiRcUAAAAAlD/KM/Ypss1vB9J7Oo6c84WrgvpVeOjD62uiewGL3vxCN0xEluhS/jFY8X7jSUnNW5ogAG4oVCEAZ1TqT5caj</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
